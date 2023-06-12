@@ -1,0 +1,3 @@
+[submodule "동열/baseball"]
+	path = 동열/baseball
+	url = https://github.com/eastheat10/java-baseball.git
